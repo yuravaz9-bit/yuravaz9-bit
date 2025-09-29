@@ -36,5 +36,4 @@ Productboard / Jira / Confluence • Figma • Miro • Looker/Power BI • Ampl
 
 ## Связь
 - 📬 Email: [yuravaz9@gmail.com](mailto:yuravaz9@gmail.com)
-- 💬 Telegram: _(добавьте @ник)_
-
+- 💬 Telegram: @gibb1081
